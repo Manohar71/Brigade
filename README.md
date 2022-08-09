@@ -1,16 +1,23 @@
-# brigade
 
-A new Flutter project.
+![Logo](https://i.ibb.co/86Qqx3L/Br.jpg)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Brigade
 
-A few resources to get you started if this is your first Flutter project:
+A mobile app for reading books for specified branches
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## FAQ
+
+####  File is not opening ?
+
+Try to give all permissions
+
+#### Is there any other way to open file 
+
+We are updating on that
+
+#### Its taking more time to load
+
+API we are using will take time to fech data . please wait with paitence
+
