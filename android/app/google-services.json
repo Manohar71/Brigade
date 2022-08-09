@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1075651493339",
+    "project_id": "brigade-5be27",
+    "storage_bucket": "brigade-5be27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075651493339:android:0b4a2b7951b0345078bbfe",
+        "android_client_info": {
+          "package_name": "com.example.brigade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075651493339-st8gk45lagl76491s6v9j5l43dgnpabm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXc1KiCo-x2UAh9ING6PSFiCfLxTjty8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075651493339-st8gk45lagl76491s6v9j5l43dgnpabm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
